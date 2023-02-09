@@ -18,6 +18,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
+[![Deploy on Uffizzi](https://telegra.ph/file/e464e609e43eb3dfdc144.png)](https://app.uffizzi.com/projects)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nimaofficial/Black-Dragon-Lite/)
 
 # Install Manually 👇
